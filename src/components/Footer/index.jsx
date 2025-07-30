@@ -1,11 +1,11 @@
-import { Container } from './styles'
+import { FooterContainer } from './styles';
 
 const Footer = () => {
   return (
-    <Container>
+    <FooterContainer>
       <p>efood © Todos os direitos reservados</p>
-    </Container>
-  )
-}
+    </FooterContainer>
+  );
+};
 
-export default Footer
+export default Footer;

@@ -1,12 +1,21 @@
-import { BrowserRouter } from 'react-router-dom'
-import Routes from './routes'
+import { BrowserRouter as Router } from 'react-router-dom';
+import RoutesConfig from './routes';
+import styled from 'styled-components';
+
+const AppContainer = styled.div`
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+`;
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes />
-    </BrowserRouter>
-  )
+    <Router>
+      <AppContainer>
+        <RoutesConfig />
+      </AppContainer>
+    </Router>
+  );
 }
 
-export default App
+export default App;
