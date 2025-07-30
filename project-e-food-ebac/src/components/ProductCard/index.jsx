@@ -6,9 +6,8 @@ const ProductCard = ({ image, title, description, price, path, buttonType }) => 
 
   const handleButtonClick = () => {
     if (buttonType === 'learnMore' && path) {
-      navigate(path); // Navega para a página do restaurante
+      navigate(path);
     } else if (buttonType === 'addToCart') {
-      // Aqui você pode adicionar lógica para o carrinho, se necessário
       console.log(`${title} adicionado ao carrinho!`);
     }
   };
