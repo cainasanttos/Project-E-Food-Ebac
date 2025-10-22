@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.27dcb5c9.js",
+    "main.js": "/static/js/main.c4dcb570.js",
     "static/media/peixe-cru.jpg": "/static/media/peixe-cru.9160c87e3b62577f0b69.jpg",
     "static/media/pizza-pizza-cheia-de-tomates-salame-e-azeitonas_140725-1200.avif": "/static/media/pizza-pizza-cheia-de-tomates-salame-e-azeitonas_140725-1200.af4da7e61df688c4f59e.avif",
     "static/media/shouri-sushi-delivery.jpg": "/static/media/shouri-sushi-delivery.444139fbcb348dcd8b75.jpg",
     "static/media/FCB48A53-86F0-4697-BE75-7B7CE9B49EBE.avif": "/static/media/FCB48A53-86F0-4697-BE75-7B7CE9B49EBE.f6e634dd3490047cdf69.avif",
     "static/media/33603068522623.Y3JvcCw4NDQsNjYwLDIxNywyOQ-removebg-preview.png": "/static/media/33603068522623.Y3JvcCw4NDQsNjYwLDIxNywyOQ-removebg-preview.72c677ea4258edf0c5f8.png",
     "index.html": "/index.html",
-    "main.27dcb5c9.js.map": "/static/js/main.27dcb5c9.js.map"
+    "main.c4dcb570.js.map": "/static/js/main.c4dcb570.js.map"
   },
   "entrypoints": [
-    "static/js/main.27dcb5c9.js"
+    "static/js/main.c4dcb570.js"
   ]
 }

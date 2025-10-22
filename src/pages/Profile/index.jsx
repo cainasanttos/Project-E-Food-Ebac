@@ -1,7 +1,6 @@
 import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 import { Container } from './styles'
-import { jsx } from 'react/jsx-runtime';
 
 const Profile = () => {
   return (
