@@ -4,6 +4,7 @@ import ProductCard from '../../components/ProductCard';
 import { Container } from './styles';
 import pizzaImage from '../../assets/pizza-pizza-cheia-de-tomates-salame-e-azeitonas_140725-1200.avif';
 import carbonaraImage from '../../assets/FCB48A53-86F0-4697-BE75-7B7CE9B49EBE.avif';
+import { jsx } from 'react/jsx-runtime';
 
 const LaPasta = () => {
   return (

@@ -1,5 +1,6 @@
 import { Container, Logo } from './styles';
 import logo from '../../assets/33603068522623.Y3JvcCw4NDQsNjYwLDIxNywyOQ-removebg-preview.png'; 
+import { jsx } from 'react/jsx-runtime';
 
 const Header = () => {
   return (

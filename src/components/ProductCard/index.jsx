@@ -1,5 +1,6 @@
 import { Card, Image, Info, Title, Description, Price, Button } from './styles';
 import { useNavigate } from 'react-router-dom';
+import { jsx } from 'react/jsx-runtime';
 
 const ProductCard = ({ image, title, description, price, path, buttonType }) => {
   const navigate = useNavigate();

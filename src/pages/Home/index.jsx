@@ -4,6 +4,7 @@ import ProductCard from '../../components/ProductCard';
 import { Container } from './styles';
 import pizzaImage from '../../assets/pizza-pizza-cheia-de-tomates-salame-e-azeitonas_140725-1200.avif';
 import sushiImage from '../../assets/shouri-sushi-delivery.jpg';
+import { jsx } from 'react/jsx-runtime';
 
 const Home = () => {
   return (
